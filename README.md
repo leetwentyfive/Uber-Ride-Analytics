@@ -13,6 +13,6 @@ Analyzed 150,000 Uber rides to identify predictors of incomplete rides and ratin
 
 ## Files
 - `DAT_490_Project_DILIN.ipynb` – Data cleaning, feature engineering, and model training
-- `DAT490 - Final Project - Drop It Like It's Null` – Summary of model performance (optional)
+- `DAT490 - Final Project - Drop It Like It's Null` – Project Report
 
 *Dataset not included due to size. Linked in notebook*
